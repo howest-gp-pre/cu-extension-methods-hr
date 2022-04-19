@@ -9,4 +9,10 @@
     <ProjectReference Include="..\Pre.Cu.LINQ.HR.Core\Pre.Cu.LINQ.HR.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Pre.Cu.LINQ.HR.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\Pre.Cu.LINQ.HR.Core\Pre.Cu.LINQ.HR.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

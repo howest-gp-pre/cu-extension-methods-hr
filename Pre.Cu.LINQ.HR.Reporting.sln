@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.LINQ.HR.Reporting.Cons", "Pre.Cu.LINQ.HR.Reporting.Cons\Pre.Cu.LINQ.HR.Reporting.Cons.csproj", "{AC87F00B-A04D-4A88-99C6-953FB94BC91F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.LINQ.HR.Core", "Pre.Cu.LINQ.HR.Core\Pre.Cu.LINQ.HR.Core.csproj", "{A3CF26C3-3172-47B8-BE32-75B9BEC6C2C6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3CF26C3-3172-47B8-BE32-75B9BEC6C2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3CF26C3-3172-47B8-BE32-75B9BEC6C2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3CF26C3-3172-47B8-BE32-75B9BEC6C2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3CF26C3-3172-47B8-BE32-75B9BEC6C2C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

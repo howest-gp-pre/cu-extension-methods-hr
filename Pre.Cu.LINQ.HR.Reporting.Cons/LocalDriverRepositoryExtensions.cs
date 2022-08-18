@@ -39,7 +39,5 @@ namespace Pre.Cu.LINQ.HR.Reporting.Core
         {
             return localDriverRepository.GetAll().Where(driver => driver.Wage > wage);
         }
-
-        
     }
 }

@@ -1,15 +1,6 @@
-﻿using Pre.Cu.LINQ.HR.Reporting.Core;
-using Pre.Cu.LINQ.HR.Repository;
+﻿// See https://aka.ms/new-console-template for more information
 
-namespace Pre.Cu.LINQ.HR.Reporting.Cons
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var localDriverRepository = new LocalDriverRepository();
+using Pre.Cu.LINQ.HR.Reporting.Cons;
 
-            localDriverRepository.GetAllByNameLike("Jeanette");
-        }
-    }
-}
+var app = new App();
+app.Run();

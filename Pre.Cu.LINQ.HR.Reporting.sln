@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.LINQ.HR.Reporting.Cons", "Pre.Cu.LINQ.HR.Reporting.Cons\Pre.Cu.LINQ.HR.Reporting.Cons.csproj", "{AC87F00B-A04D-4A88-99C6-953FB94BC91F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.LINQ.HR.Reporting.Cons", "Pre.Cu.LINQ.HR.Reporting.Cons\Pre.Cu.LINQ.HR.Reporting.Cons.csproj", "{0E4BF524-CD24-4CE7-9731-B62B414DB5C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC87F00B-A04D-4A88-99C6-953FB94BC91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4BF524-CD24-4CE7-9731-B62B414DB5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4BF524-CD24-4CE7-9731-B62B414DB5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4BF524-CD24-4CE7-9731-B62B414DB5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4BF524-CD24-4CE7-9731-B62B414DB5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
